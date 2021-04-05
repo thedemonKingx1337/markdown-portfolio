@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+Quick links <br>
+[GitHub](https://github.com/thedemonKingx1337) <br>
+[Youtube](https://www.youtube.com/channel/UCgBvgNnQv7lHFqLLSiOHqXw)
